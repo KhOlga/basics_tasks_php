@@ -10,7 +10,7 @@
 $a = '78';
 $b = 78;
 
-if ($a == $b) {
+/*if ($a == $b) {
     echo "Numbers are equal.\n";
     echo "First number is ";
     var_dump($a);
@@ -18,6 +18,7 @@ if ($a == $b) {
     var_dump($b);
     echo "\n";
 }
-else { echo "Numbers are not equal.";}
+else { echo "Numbers are not equal.";}*/
 
 
+var_dump ($a == $b);
